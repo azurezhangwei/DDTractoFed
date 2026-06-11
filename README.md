@@ -8,9 +8,9 @@ DDTractoFed is designed for multi-site dMRI tractography-based population studie
 
 The proposed method is developed for population-level classification using dMRI tractography data and aims to address inter-site variability caused by differences in subjects, scanners, and acquisition protocols.
 
-## Code Availability
+## Code and Data Availability
 
-The source code is currently withheld because the associated manuscript is under review.
+The source code and data are currently withheld because the associated manuscript is under review.
 
 The complete implementation, including training scripts, model definitions, configuration files, and usage instructions, will be made publicly available in this repository upon acceptance of the paper.
 
